@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at https://portfolio-bice-delta-45.vercel.app/
+- 👨‍💻 All of my projects are available at [PortFolio](https://portfolio-divya-shah.vercel.app/)
 
 - 💬 Ask me about **react, next, java, c/c++**
 
