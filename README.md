@@ -9,35 +9,24 @@
   </h3>
  <div style="display: flex; justify-content: space-between;">
   
-  <!-- Left column for the list -->
-  <div style="flex: 1;">
-  
 -  🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [PortFolio](https://portfolio-divya-shah.vercel.app/)
 - 💬 Ask me about **react, next, java, c/c++**
 - 📫 How to reach me **shah.divya.2206@gmail.com**
-    
-  </div>
 
-  <!-- Right column for the GitHub stats image -->
-  <div style="flex: 1;">
     <p align="center">
-      <a href="https://github.com/divyashah0510/github-readme-stats">
-        <img src="https://streak-stats.demolab.com?user=divyashah0510&theme=ayu-mirage&border_radius=6&mode=weekly" />
+      <a href="https://github.com/divyashah0510/github-readme-stats">            
+      <img width="95%" src="https://streak-stats.demolab.com?user=divyashah0510&theme=ayu-mirage&border_radius=6&mode=weekly" />
       </a>
     </p>
-  </div>
-
-</div>
-
 <hr>
 <h3 align="left">Stats 📊</h3>
 <p align="center">
   <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=divyashah0510&count_private=true&show_icons=true&theme=ayu-mirage" />
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=divyashah0510&count_private=true&show_icons=true&theme=ayu-mirage" />
   </a>
   <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=compact&theme=ayu-mirage" />
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=compact&theme=ayu-mirage" />
   </a>
 </p>
 <hr>
