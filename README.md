@@ -156,7 +156,7 @@
     <a href="https://instagram.com/divya_shah2206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_shah2206" height="30" width="40" /></a>
     <!-- Portfolio link -->
     <a href="https://portfolio-divya-shah.vercel.app/" target="_blank">
-        <img align="center" src="https://github.com/divyashah0510.png" alt="divya_shah2206" height="40" width="40" style="border-radius: 10%;" />
+        <img align="center" src="https://github.com/divyashah0510.png" alt="divya_shah2206" height="40" width="40"/>
     </a>
 
 </p>
