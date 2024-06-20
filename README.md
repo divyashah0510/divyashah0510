@@ -28,6 +28,9 @@
   <a href="https://github.com/divyashah0510/github-readme-stats">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=compact&theme=ayu-mirage" />
   </a>
+  
+  <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 </p>
 <hr>
 
