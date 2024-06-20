@@ -16,7 +16,7 @@
 
     <p align="center">
       <a href="https://github.com/divyashah0510/github-readme-stats">            
-      <img width="95%" height="200em" src="https://streak-stats.demolab.com?user=divyashah0510&theme=ayu-mirage&border_radius=6&mode=weekly" />
+      <img width="95%" height="200em" src="https://streak-stats.demolab.com?user=divyashah0510&theme=ayu-mirage&border_radius=6&mode=daily" />
       </a>
     </p>
 <hr>
