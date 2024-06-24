@@ -141,7 +141,6 @@
 
 <hr>
 <h3 align="center">Connect with me</h3>
-<hr>
 <p align="center">
     <a href="https://twitter.com/@divya_shah22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@divya_shah22" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/divya-d-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-shah22" height="30" width="40" /></a>
