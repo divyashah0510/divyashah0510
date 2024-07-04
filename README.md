@@ -16,20 +16,20 @@
 
     <p align="center">
       <a href="https://github.com/divyashah0510/github-readme-stats">            
-      <img width="95%" height="200em" src="https://streak-stats.demolab.com?user=divyashah0510&theme=ayu-mirage&border_radius=6&mode=daily" />
+      <img width="95%" height="200em" src="https://streak-stats.demolab.com?user=divyashah0510&theme=chartreuse_dark&border_radius=6&mode=daily" />
       </a>
     </p>
 <hr>
 <h3 align="left">Stats 📊</h3>
 <p align="center">
   <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=divyashah0510&count_private=true&show_icons=true&theme=ayu-mirage" />
+    <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashah0510&theme=chartreuse_dark" />
   </a>
   <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=compact&theme=ayu-mirage" />
+    <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyashah0510&theme=chartreuse_dark" />
   </a>
   
-  <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=000000&color=00aeff&line=7fff00&point=00aeff&hide_border=true" /></a>
 
 </p>
 <hr>
@@ -120,22 +120,22 @@
 
 <p align="center">
     <a href="https://github.com/divyashah0510/starter-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=starter-app&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=starter-app&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/divyashah0510/DataScienceLabSem6">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=DataScienceLabSem6&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=DataScienceLabSem6&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/divyashah0510/crud_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=crud_app&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=crud_app&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/divyashah0510/game">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=game&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=game&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/divyashah0510/society-maintenance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=society-maintenance&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=society-maintenance&theme=github_dark" width="400" />
     </a>
     <a href="https://github.com/divyashah0510/Product-Analyser">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=Product-Analyser&theme=ayu-mirage" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=divyashah0510&repo=Product-Analyser&theme=github_dark" width="400" />
     </a>
 </p>
 
