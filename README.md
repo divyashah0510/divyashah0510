@@ -149,5 +149,7 @@
     <a href="https://divya-shah.vercel.app/" target="_blank">
         <img align="center" src="https://github.com/divyashah0510.png" alt="divya_shah2206" height="40" width="40"/>
     </a>
-
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/divyashah0510/divyashah0510/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake"/>
 </p>
