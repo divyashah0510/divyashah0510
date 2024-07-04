@@ -1,36 +1,44 @@
 name: generate animation
 
 on:
-  # run automatically every 12 hours
+  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */12 * * *"
+
+  # Allow to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the master branch
+
+  # Run on every push on the main branch
   push:
     branches:
-    - main
-    
-  
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Generates a snake game from a GitHub user's contributions graph and outputs a SVG animation
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3 # Assuming there's a v3, or check the latest version
         with:
           github_user_name: divyashah0510
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+
+      # Debugging step to verify the directory and files
+      - name: Debugging
+        run: |
+          echo "User: ${{ github.event.repository.owner.login }}"
+          ls -l dist
+
+      # Push the content of <build_dir> to a branch
+      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as GitHub Page
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
