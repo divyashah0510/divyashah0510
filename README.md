@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyashah0510&label=Profile%20views&color=0e75b6&style=flat" alt="divyashah0510"/>
+  <!-- 
+  <img src="https://komarev.com/ghpvc/?username=divyashah0510&label=Profile%20views&theme=chartreuse_dark&color=0e75b6&style=flat" alt="divyashah0510"/>-->
+  <img src="https://visitcount.itsvg.in/api?id=divyashah0510&icon=2&color=0)" alt=""/>
 </p>
 <h1 align="center">Divya Shah</h1>
 
