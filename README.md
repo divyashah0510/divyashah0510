@@ -11,11 +11,6 @@
 - 💬 Ask me about **react, next, java, c/c++**
 - 📫 How to reach me **shah.divya.2206@gmail.com**
 
-    <p align="center">
-      <a href="https://github.com/divyashah0510/github-readme-stats">            
-      <img width="95%" height="200em" src="https://streak-stats.demolab.com?user=divyashah0510&theme=chartreuse_dark&border_radius=6&mode=daily" />
-      </a>
-    </p>
 <hr>
 <h3 align="left">Stats 📊</h3>
 <p align="center">
