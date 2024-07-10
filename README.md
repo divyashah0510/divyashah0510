@@ -11,6 +11,13 @@
 - 💬 Ask me about **react, next, java, c/c++**
 - 📫 How to reach me **shah.divya.2206@gmail.com**
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="90%" src="https://github-readme-streak-stats-peach-one.vercel.app?user=divyashah0510&theme=chartreuse-dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800&card_height=200" alt="GitHub Streak" />
+  </a>
+</div>
+
+
 <hr>
 <h3 align="left">Stats 📊</h3>
 <p align="center">
