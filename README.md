@@ -29,11 +29,11 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10"
   />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10" />
 </picture>
-  <a href="https://github.com/divyashah0510/github-readme-stats">
+<!--   <a href="https://github.com/divyashah0510/github-readme-stats">
     <img height="150em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashah0510&theme=chartreuse_dark" />
-  </a>
+  </a> -->
   
   <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=000000&color=00aeff&line=7fff00&point=00aeff&hide_border=true&border_radius=50" /></a>
 </p>
@@ -156,13 +156,17 @@
         <img align="center" src="https://github.com/divyashah0510.png" alt="divya_shah2206" height="40" width="40"/>
     </a>
 </p>
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/divyashah0510/divyashah0510/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake"/>
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=pie&theme=chartreuse-dark&hide_border=true&border_radius=10" alt="divyashah0510">
+  </a>
+</div>
 
 <p align="center">
   <!-- 
   <img src="https://komarev.com/ghpvc/?username=divyashah0510&label=Profile%20views&theme=chartreuse_dark&color=0e75b6&style=flat" alt="divyashah0510"/>-->
   <img src="https://visitcount.itsvg.in/api?id=divyashah0510&icon=2&color=7fff00)" bgcolor="black" alt=""/>
 </p>
+
 
