@@ -21,7 +21,7 @@
 <hr>
 <h3 align="left">Stats 📊</h3>
 <p align="center">
-  <picture>
+<!--   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10"
     media="(prefers-color-scheme: dark)"
@@ -30,7 +30,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10" />
-</picture>
+</picture> -->
 <!--   <a href="https://github.com/divyashah0510/github-readme-stats">
     <img height="150em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashah0510&theme=chartreuse_dark" />
   </a> -->
@@ -158,9 +158,9 @@
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/divyashah0510/divyashah0510/output/github-contribution-grid-snake-dark.svg" alt="github-contribution-grid-snake"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashah0510&layout=pie&theme=chartreuse-dark&hide_border=true&border_radius=10" alt="divyashah0510">
-  </a>
+  </a> -->
 </div>
 
 <p align="center">
