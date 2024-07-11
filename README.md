@@ -22,15 +22,22 @@
 <h3 align="left">Stats 📊</h3>
 <p align="center">
   <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashah0510&theme=chartreuse_dark" />
+    <img height="150em"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyashah0510&theme=chartreuse_dark" />
   </a>
-  <a href="https://github.com/divyashah0510/github-readme-stats">
-    <img height="145em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyashah0510&theme=chartreuse_dark" />
-  </a>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=10"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10"
+  />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=divyashah0510&show_icons=true&hide_border=true&border_radius=10" />
+</picture>
   
-  <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=000000&color=00aeff&line=7fff00&point=00aeff&hide_border=true" /></a>
-
+  <a width="80%" href="https://github.com/divyashah0510/github-readme-activity-graph"><img alt="divyashah0510's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=divyashah0510&bg_color=000000&color=00aeff&line=7fff00&point=00aeff&hide_border=true&border_radius=50" /></a>
 </p>
+
 <hr>
 
 ### 🧰 Languages and Tools
@@ -158,3 +165,4 @@
   <img src="https://komarev.com/ghpvc/?username=divyashah0510&label=Profile%20views&theme=chartreuse_dark&color=0e75b6&style=flat" alt="divyashah0510"/>-->
   <img src="https://visitcount.itsvg.in/api?id=divyashah0510&icon=2&color=7fff00)" bgcolor="black" alt=""/>
 </p>
+
