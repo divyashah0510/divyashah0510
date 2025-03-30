@@ -1,9 +1,10 @@
-<h1 align="center">Divya Shah</h1>
-
-**`Multifaceted Artisan (Developer/Singer/3D Modeler)`**
-
-  <h3 >A passionate frontend developer from India. Pursuing Undergraduate Degree in Information Technology. Proficient in REACT, NEXT, HTML, CSS and Javascript. Have experience in creating java projects using swing, worked over flutter too, and also coding 👨🏻‍💻 
-  </h3>
+<h1 align="center">🚀 Divya Shah 🚀</h1>
+<p align="center">
+  <strong>Multifaceted Artisan (Developer | Singer | 3D Modeler)</strong>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7FFF00&width=435&lines=Frontend+Developer;React%2FNext.js+Enthusiast;Java+%7C+Python+%7C+C%2FC%2B%2B;Flutter+%7C+3D+Modeling+%7C+Music;Passionate+About+Coding!">
+</p>
  <div style="display: flex; justify-content: space-between;">
   
 -  🌱 I’m currently learning **Python**
