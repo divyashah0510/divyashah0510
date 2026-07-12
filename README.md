@@ -1,7 +1,7 @@
 <h1 align="center">Divya Shah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=81B5A1&width=580&center=true&lines=ServiceNow+AI+Engineer+%7C+Agentic+AI+Now+Assist;First+MCP+%C2%B7+ServiceNow+integration+before+official+release;5+Enterprise+POCs+%E2%86%92+5+Production+Systems+(100%25);Open+Source+%7C+Enterprise+ITSM+%2F+ITOM+%7C+TypeScript+%C2%B7+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=81B5A1&width=580&center=true&lines=ServiceNow+AI+Engineer+%7C+Agentic+AI+Now+Assist;Early+Mover+%C2%B7+MCP+ServiceNow+Integration;5+Enterprise+POCs+%E2%86%92+5+Production+Systems+(100%25);Open+Source+%7C+Enterprise+ITSM+%2F+ITOM" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,6 +54,9 @@ ServiceNow AI Summit Mumbai · April 2026
 ![Service Portal](https://img.shields.io/badge/Service_Portal-Widgets%20%7C%20AngularJS-4CAF50?style=flat-square)
 ![CMDB](https://img.shields.io/badge/CMDB-CIS--DF%20%7C%20CSDM%20%7C%20IRE-6D9F71?style=flat-square)
 ![Virtual Agent](https://img.shields.io/badge/Virtual_Agent-NLP%20%7C%20Topic%20Design-81B5A1?style=flat-square)
+![ServiceNow MCP](https://img.shields.io/badge/ServiceNow_MCP-Open_Source-81B5A1?style=flat-square)
+![Custom Applications](https://img.shields.io/badge/Custom_Applications-Custom_Applications-81B5A1?style=flat-square)
+![ServiceNow App Engine](https://img.shields.io/badge/ServiceNow_App_Engine-Custom_Applications-81B5A1?style=flat-square)
 
 **Languages & Frameworks**
 
@@ -92,11 +95,11 @@ ServiceNow AI Summit Mumbai · April 2026
 
 | Tier | Certifications |
 |---|---|
-| **Mainline** | Certified System Administrator (CSA) · CIS – Data Foundations (CMDB + CSDM) |
-| **AI & Emerging** | Agentic AI Executive · Virtual Agent · Predictive Intelligence |
+| **Mainline** | Certified System Administrator **CSA** · CIS – Data Foundations **CMDB + CSDM** |
+| **AI & Emerging** | Agentic AI Executive · Virtual Agent with Now Assist · Predictive Intelligence |
 | **Portal & UX** | Service Portal · UI Builder |
 | **Automation** | Flow Designer · Integration Hub · Auto Test Framework |
-| **Platform** | App Engine Studio · Platform Analytics · App Dev Core · Citizen Developer · Welcome to SN |
+| **Platform** | App Engine Studio · Platform Analytics · App Dev Core · Citizen Developer |
 
 ---
 
